@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "node-xmpp-server": "^2.2.7",
+    "typescript": "^5.2.2"
+  }
+}
